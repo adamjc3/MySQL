@@ -1,4 +1,4 @@
-##Creating a table with few samples
+#Creating a table with a few samples
 
 CREATE TABLE my_contacts
 (
